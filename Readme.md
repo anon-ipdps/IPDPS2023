@@ -9,3 +9,4 @@
 7. **Exp.2-ophys_writes.txt** - Details from generating or writing ophys files using configurations in Exp.2. The file sizes indicate very little variability across configurations.
 8. **Exp.2-ecephys_writes.txt** - Details from generating or writing ecephys files using configurations in Exp.2
 9. **Exp.2-ecephys_comprRatio.txt** - Lists computed compression ratios for different algorithms across chunk sizes for ecephys data, in Exp.2.
+10. **Exp.2-ecephys_reads.txt** - Lists the median read times (from multiple trials) for each configuration, across all three uses cases. Configurations are sorted by increasing order of read times for every use case and spans in the time dimension (t). Failed configurations were removed prior to ranking.
