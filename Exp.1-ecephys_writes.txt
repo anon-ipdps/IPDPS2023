@@ -1,4 +1,4 @@
-config.no	Chunk_shape	write_time(sec)	filesize(Gb)
+config_id	chunk_size	write_time(sec)	filesize(Gb)
 1	256,32	6713.103	244.017
 2	256,48	5806.870	243.785
 3	256,64	5519.109	243.670
