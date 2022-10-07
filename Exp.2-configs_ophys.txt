@@ -21,6 +21,7 @@ config_id	chunk_size	compression_algo	compression_level
 20	1,796,512	zstd	3
 21	1,796,512	zstd	12
 22	1,796,512	zstd	22
+23	1,796,512	zfp	NA
 24	4096,4,4	gzip	4
 25	4096,4,4	gzip	6
 26	4096,4,4	gzip	8
@@ -43,6 +44,7 @@ config_id	chunk_size	compression_algo	compression_level
 43	4096,4,4	zstd	3
 44	4096,4,4	zstd	12
 45	4096,4,4	zstd	22
+46	4096,4,4	zfp	NA
 47	625,25,16	gzip	4
 48	625,25,16	gzip	6
 49	625,25,16	gzip	8
@@ -65,6 +67,7 @@ config_id	chunk_size	compression_algo	compression_level
 66	625,25,16	zstd	3
 67	625,25,16	zstd	12
 68	625,25,16	zstd	22
+69	625,25,16	zfp	NA
 70	625,25,16	uncompressed	NA
 71	4096,4,4	uncompressed	NA
 72	1,796,512	uncompressed	NA
