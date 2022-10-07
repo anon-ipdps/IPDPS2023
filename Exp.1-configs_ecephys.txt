@@ -1,4 +1,4 @@
-config.no	chunk_shape
+config_id	chunk_size
 1	256,32
 2	256,48
 3	256,64
